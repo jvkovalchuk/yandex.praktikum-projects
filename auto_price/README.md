@@ -9,4 +9,4 @@
 - расчет времени обучения и предсказания;
 - тестирование моделей и выбора лучшей;
 
-**Стек технологий:** sklearn, matplotlib, numpy, pandas, seaborn
+**Стек технологий:** sklearn, matplotlib, numpy, pandas, seaborn, LightGBM, CatBoost, LinearRegression.
