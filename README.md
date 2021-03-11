@@ -9,6 +9,12 @@
 * Выводы из исследований.
 
 ## Проекты:
+| Project name       | Disription           | Used libraries  |
+| ------------- |:-------------:| -----:|
+| **([auto_price](https://github.com/jvkovalchuk/Projects/tree/main/auto_price))**     | В этом проекте на основе исторических данных уже проданных автомобилей построена модель для определения примерной стоимости других авт | pandas, NumPy, matplotlib, Seaborn, LightGBM, XGBoost, CatBoost |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 - **auto_price.** В этом проекте на основе исторических данных уже проданных автомобилей построена модель для определения примерной стоимости других авто ([auto_price](https://github.com/jvkovalchuk/Projects/tree/main/auto_price));
 - **best_oil_geolocation.** Обучение модели регрессии для выявления потенциально прибыльных нефтяных скважин. ([best_oil_geolocation](https://github.com/jvkovalchuk/Projects/tree/main/best_oil_geolocation));
