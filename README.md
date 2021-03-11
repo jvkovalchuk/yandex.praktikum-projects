@@ -9,14 +9,10 @@
 * Выводы из исследований.
 
 ## Проекты:
-| Project name       | Disription           | Used libraries  |
+
+| Project name       | Disription           | Skills  | Used libraries  |
 | ------------- |:-------------:| -----:|
-| **([auto_price](https://github.com/jvkovalchuk/Projects/tree/main/auto_price))**     | В этом проекте на основе исторических данных уже проданных автомобилей построена модель для определения примерной стоимости других авт | pandas, NumPy, matplotlib, Seaborn, LightGBM, XGBoost, CatBoost |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
-- **auto_price.** В этом проекте на основе исторических данных уже проданных автомобилей построена модель для определения примерной стоимости других авто ([auto_price](https://github.com/jvkovalchuk/Projects/tree/main/auto_price));
-- **best_oil_geolocation.** Обучение модели регрессии для выявления потенциально прибыльных нефтяных скважин. ([best_oil_geolocation](https://github.com/jvkovalchuk/Projects/tree/main/best_oil_geolocation));
-- **churn_prediction.** Прогнозирование оттока клиентов банка на основе исторических данных о поведении клиентов и расторжении договоров с банком ([churn_prediction](https://github.com/jvkovalchuk/Projects/tree/main/churn_prediction))
-- **industry_project.** Была построена модель для предсказания финальной температуры стали с целью оптимизировать производственные расходы, уменьшить потребление электроэнергии на этапе обработки стали ([industry_project](https://github.com/jvkovalchuk/yandex.praktikum-projects/tree/main/industry_project))
+| **([auto_price](https://github.com/jvkovalchuk/Projects/tree/main/auto_price))** | Обучение модели градиентного бустинге для оценки стоимости автомобилей на основе исторических данных уже проданных автомобилеЙ. | Регрессия, градиентный бустинг, исследовательский анализ, визуализация данных, предобработка данных, feature engineering | pandas, NumPy, matplotlib, Seaborn, LightGBM, XGBoost, CatBoost |
+| **([best_oil_geolocation](https://github.com/jvkovalchuk/Projects/tree/main/best_oil_geolocation))** | Обучение модели регрессии для выявления потенциально прибыльных нефтяных скважин. | Регрессия, bootstrap, визуализация данных |pandas, NumPy, scikit-learn, matplotlib, Seaborn|
+| **([churn_prediction](https://github.com/jvkovalchuk/Projects/tree/main/churn_prediction))** | Обучение модели-классификатора и выявление с её помощью клиентов, которые могут уйти из банка. | Классификация, предобработка данных, feature engineering, исследовательский анализ  |pandas, NumPy, scikit-learn, matplotlib, Seaborn|
+| **([industry_project](https://github.com/jvkovalchuk/yandex.praktikum-projects/tree/main/industry_project))** | Подбор модели для предсказания финальной температуры стали с целью оптимизировать производственные расходы. | Регрессия, градиентный бустинг, предобработка данных, feature engineering, исследовательский анализ | pandas, NumPy, Matplotlib, Seaborn, scikit-learn, SQLite, CatBoost, LightGBM, XGBoost |
