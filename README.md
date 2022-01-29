@@ -1,14 +1,14 @@
-# В данном репозитории находится портфолио моих проектов, созданных за время обучения профессии Специалист по Data Science в Яндекс.Практикуме:
+# This repository contains my portfolio of study cases created during the training of Data Science Specialist in Yandex:
 
-Проекты выполнены в среде JupyterLab в формате IPython Notebook (.ipynb).
+Cases  implemented in JupyterLab in IPython Notebook format (.ipynb).
 
-**Каждый проект включает в себя:**
+**Study cases includes:**
 
-* Изучение набора данных,
-* Код с пояснениями,
-* Выводы из исследований.
+* Examination of the data set;
+* Code with explanations;
+* Conclusions from research.
 
-## Проекты:
+## Cases:
 
 | Project name       | Disription           | Skills  | Used libraries  |
 | ------------- | ------------- |:-------------:| -----:|
